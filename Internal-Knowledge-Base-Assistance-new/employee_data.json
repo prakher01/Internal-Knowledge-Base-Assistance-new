@@ -1,0 +1,22 @@
+[
+  { "id": 1, "name": "Rohit Sharma", "designation": "Software Engineer", "department": "IT", "location": "Mumbai" },
+  { "id": 2, "name": "Ananya Verma", "designation": "HR Manager", "department": "HR", "location": "Delhi" },
+  { "id": 3, "name": "Sahil Gupta", "designation": "Data Analyst", "department": "Analytics", "location": "Bangalore" },
+  { "id": 4, "name": "Priya Nair", "designation": "Project Manager", "department": "IT", "location": "Chennai" },
+  { "id": 5, "name": "Karan Mehta", "designation": "UI/UX Designer", "department": "Design", "location": "Pune" },
+  { "id": 6, "name": "Neha Singh", "designation": "QA Engineer", "department": "Testing", "location": "Hyderabad" },
+  { "id": 7, "name": "Aditya Jain", "designation": "DevOps Engineer", "department": "IT", "location": "Gurgaon" },
+  { "id": 8, "name": "Simran Kaur", "designation": "Marketing Lead", "department": "Marketing", "location": "Delhi" },
+  { "id": 9, "name": "Rajesh Kumar", "designation": "System Admin", "department": "IT", "location": "Mumbai" },
+  { "id": 10, "name": "Aman Tiwari", "designation": "Business Analyst", "department": "Analytics", "location": "Bangalore" },
+  { "id": 11, "name": "Ritika Das", "designation": "Content Writer", "department": "Marketing", "location": "Pune" },
+  { "id": 12, "name": "Vivek Rana", "designation": "Finance Manager", "department": "Finance", "location": "Delhi" },
+  { "id": 13, "name": "Divya Sharma", "designation": "Recruiter", "department": "HR", "location": "Chennai" },
+  { "id": 14, "name": "Mohit Sinha", "designation": "Product Manager", "department": "Product", "location": "Bangalore" },
+  { "id": 15, "name": "Tanya Arora", "designation": "Customer Support", "department": "Support", "location": "Noida" },
+  { "id": 16, "name": "Deepak Yadav", "designation": "Backend Developer", "department": "IT", "location": "Hyderabad" },
+  { "id": 17, "name": "Shreya Iyer", "designation": "Frontend Developer", "department": "IT", "location": "Mumbai" },
+  { "id": 18, "name": "Manoj Patil", "designation": "Network Engineer", "department": "IT", "location": "Pune" },
+  { "id": 19, "name": "Aarti Desai", "designation": "Operations Manager", "department": "Operations", "location": "Delhi" },
+  { "id": 20, "name": "Rahul Khanna", "designation": "Intern", "department": "IT", "location": "Bangalore" }
+]
